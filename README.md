@@ -17,3 +17,8 @@
 - 🛢 &nbsp; MySQL, ORACLE SQL
 - ⚙️ &nbsp; GIT, GITLAB, GITHUB
 <br/>
+
+
+<h3> 🤔 Visit my Page!</h3>
+
+<a href="https://www.migliardi.dev">CLICK ME!</a>
