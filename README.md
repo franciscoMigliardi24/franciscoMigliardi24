@@ -21,4 +21,4 @@
 
 <h3> 🤔 Visit my Page!</h3>
 
-<a href="https://www.migliardi.dev" target="_blank">CLICK ME!</a>
+<a target="_blank" href="https://www.migliardi.dev">CLICK ME!</a>
