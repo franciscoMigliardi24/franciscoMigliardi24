@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Web Development and Cyber Security.
-- 💼 &nbsp; Working as a FullStack Dev at Insside.
+- 💼 &nbsp; Working as a FullStack Dev at Prisma.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Safe Development.
 - 👯 I’m looking to collaborate on open source project.
 
