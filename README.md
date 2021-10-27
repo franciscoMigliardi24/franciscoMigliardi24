@@ -13,7 +13,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp; JAVA, ANGULAR, JAVASCRIPT
+- 🌐 &nbsp; JAVA, REACT, JAVASCRIPT
 - 🛢 &nbsp; MySQL, ORACLE SQL
 - ⚙️ &nbsp; GIT, GITLAB, GITHUB
 <br/>
